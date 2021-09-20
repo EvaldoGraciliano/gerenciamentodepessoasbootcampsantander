@@ -1,2 +1,3 @@
 # sistemas-de-gerenciamento-de-pessoas-main
-APIREST para controle de cadastro e gerenciamento de pessoas
+
+Projeto Desenvolvido enquanto cursava o Bootcamp Santander
